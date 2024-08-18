@@ -16,7 +16,7 @@ The findings will focus on:
 3. Assessing the average delivery time and tracking any changes over time.
 4. Comparing the average order value (AOV) between online and in-store sales.
 
-### Key metrics
+## Key metrics
 *Revenue:* Total sales accumulated across all years.
 - Level of Detail: Analyzed by Product Category and broken down by time periods (Month, Quarter, and Year).
 - Purpose: To understand overall sales performance and identify which product categories contribute the most to revenue.
@@ -52,12 +52,16 @@ The average delivery time is 4.5 days, with a clear downward trend observed from
 In-store purchases consistently have a higher average order value (AOV) than online transactions, except in 2016. The biggest difference was in 2017 of $132.61 across all countries. In-store sales also bring in more revenue and have more orders than online sales.
 Notably, certain locations show significant differences in AOV between in-store and online purchases, suggesting localized factors at play. For instance, Australia has a striking AOV difference of $162.54, compared to $101.80 in North America and $68.88 in Europe, indicating that regional customer behavior may be influencing these trends.
 
-# Take aways and Suggested TargetInvestigations
+# Take aways and Areas for Further Investigation.
 - North America, especially the USA, is the company's primary market, indicating the need for targeted strategies to capitalize on this strong customer base.
+  
 - Given the consistent dip in Q2, it would be worthwhile to analyze the factors contributing to this decline. Consider looking into external factors like weather conditions because upon looking at, it relieved that particularrly for North America, this is season transition from winter to spring and this is the time for outdoor events and other.  given that we are working  or competitive actions during Q2.
+  
 - Take Advantage of  Seasonal Patterns,The strong performance in Q4 across most years indicates that this period is crucial for revenue.Finding out the how different product categories brands perform during this time would be highly beneficial Capitalizing on this by planning targeted marketing campaigns, promotions, and product launches during Q4 could drive even higher sales.
+  
 - The consistent improvement in delivery times over the years shows that efforts to make operations more efficient have worked well. However, further refining the supply chain could lead to even faster deliveries and better customer satisfaction.Reviewing each step of the supply chain could help spot slowdowns that we saw in certain months.This might include checking how quickly orders are processed, how efficiently warehouses operate, and how fast deliveries reach customers, and by so doing ways to improve even futher can achieved.
 Additionally analyzing location-specific factors and yearly trends could help identify areas where targeted improvements can be made, such as optimizing routes or adjusting resources based on regional performance.
+
 - In-store shopping is driving more value and volume compared to online, highlighting the importance of physical retail locations for the company.Analyzing the demographic profiles of in-store versus online customers, including age, income level, and purchasing behavior could reveal preferences that drive higher in-store spending. Additionally examining the types of products being purchased in-store versus online because certain categories may have higher price points contributing to the higher AOV.
 
 
