@@ -8,55 +8,50 @@ Exploratory analysis of the Global Electronics' sales data, offering insights in
 The objective is to explore key sales and customer data to identify potential growth areas, uncover seasonal patterns, assess delivery performance, and evaluate sales channel effectiveness, setting the foundation for targeted strategic investigations.
 
 ## Overview
-I have been provided transactional data along with customer data for the Global Electronics Company including information about the products, stores and the daily exchange rates.
-the data spans from jan 2016 to dec 2020 with over 62822 transaction records.
-The goal is preapre the data, analyse and visualize it ultimately pointing out the findings which will allow strategic investigations that will be basis for
+I have been provided with transactional and customer data for the Global Electronics Company, covering the period from January 2016 to December 2020. This dataset includes over 62,822 transaction records and contains detailed information about products, stores, and daily exchange rates.
+The objective is to prepare, analyze, and visualize this data to identify key insights. These insights will inform strategic investigations and guide decision-making. The findings will focus on:
 
-Themajor questions that i will be providing foundation for further investigation are:
-1. What types of products does the company sell, and where are customers located?
-2. Are there any seasonal patterns or trends for order volume or revenue?
-3. How long is the average delivery time in days? Has that changed over time?
-4. Is there a difference in average order value (AOV) for online vs. in-store sales?
+1.Understanding the types of products sold and the geographic distribution of customers.
+2.Identifying seasonal patterns or trends in order volume and revenue.
+3.Assessing the average delivery time and tracking any changes over time.
+4.Comparing the average order value (AOV) between online and in-store sales.
 
-Key metrics to look out for,
-metric                                  level of detail
+Key metrics,
+Revenue:Total sales accumulated across all years.
+- Level of Detail: Analyzed by Product Category and broken down by time periods (Month, Quarter, and Year).
+- Purpose: To understand overall sales performance and identify which product categories contribute the most to revenue.
+  
+Seasonal Sales Index:Measures how sales volume or revenue varies by season or time period.
+- Level of Detail: Identified using time periods, focusing on monthly and quarterly data to detect recurring patterns.
+- Purpose: To uncover seasonal trends and understand how sales fluctuate throughout the year.
+  
+Average Delivery Time: The average number of days taken to deliver orders to customers.
+- Level of Detail: Calculated at the level of individual transactions and aggregated by time periods (Month, Quarter, and Year).
+- Purpose: To assess delivery performance and identify any changes in delivery efficiency over time.
+  
+Average Order Value (AOV):The average value of each order placed.
+- Level of Detail: Analyzed by Sales Channel (Online vs. In-Store) and product categories.
+- Purpose: To determine if there is a significant difference in order values between online and in-store sales, which can inform pricing and sales strategies.
 
-
-
-## Data 
-![image](https://github.com/user-attachments/assets/af30e3c9-424f-4348-a7b8-35963d362829)
-
-# Key Insights
-### 1. Profit Drivers by Product Category and Location
-![image](https://github.com/user-attachments/assets/83915d9a-ae30-43c8-b00e-46ad2e1be763)
-
-Overall Profit Leaders: Toys and Electronics are the biggest profit drivers, accounting for 51.83% of total profits from January 2022 to September 2023. Within Toys, Action Figures and Lego Bricks are particularly strong, with profit margins of 32.21% and 27.67% respectively.
-2023 Trends: In 2023, Arts and Crafts lead with $480,405 in profits, slightly ahead of Toys at $470,503.
-Location-Specific Insights: Electronics dominate at Airport and Commercial locations, while Toys lead in Downtown and Residential areas.
+# Key 
+### 1. Types of Products sold and Customer Loctaion:
+-The company offers a diverse range of 8 product categories across 11 brands.
+-Customer base is predominantly located in North America, comprising 55% of the total, with a substantial proportion residing in the USA. Gender distribution among the customers is nearly balanced, with an almost equal split between male and female individuals.
 
 ### 2. Seasonal Sales Trends
-![image](https://github.com/user-attachments/assets/88aaed0d-a2a1-4d85-a6b6-3ea8f413ec93)
+Quarterly Revenue Trends: The report reveals clear seasonal patterns in revenue across the years. Q4 consistently shows strong revenue growth, peaking in December, likely due to holiday shopping and year-end promotions. In contrast, Q2 tends to experience a significant drop, particularly around April, suggesting a seasonal lull or lower consumer spending during this period. The recovery usually begins in Q3, though the strength of this recovery varies by year, with some years showing a more gradual increase while others remain relatively flat.
 
-**Yearly Trends:** Sales in 2023 consistently outperformed 2022, with peaks in May and December, likely due to holiday or promotional events.
+Yearly Revenue Trends: The line chart shows clear seasonal spikes in revenue, particularly in December and January, with noticeable drops around April and July. This suggests strong end-of-year and start-of-year sales, possibly driven by holiday shopping and New Year promotions.
 
-![image](https://github.com/user-attachments/assets/4b2c7578-1fed-4353-ae49-81ce1a2ed509)
-
-**Seasonal Downs and Opportunities:** Sales tend to dip between June and September, coinciding with summer and back-to-school periods in Mexico. This suggests an opportunity for targeted campaigns during these months.
+Order Volume: The heatmap reveals a consistent increase in order volume during January and February across all years, peaking significantly in 2020. There is also a noticeable rise in volume during May and November, particularly in 2019, indicating potential seasonal campaigns or events during these months.
 
 ### 3. Impact of Out-of-Stock Products on Sales
-![image](https://github.com/user-attachments/assets/6b1edf5c-607f-497b-8d2f-2d5549cf3196)
 
-**Inventory Gaps:** 24 stores carry fewer than the full set of 35 products, mostly in Downtown areas.
-
-![image](https://github.com/user-attachments/assets/46c20c60-687d-495c-8a22-9702dcfedcd7)
 
 **Low Impact on Revenue:** The missing products in these stores are not top earners **(bottom five)**, collectively accounting for less than **0.5%** of total revenue from **January 2022 to September 2023.**
 **Optimization Opportunity:** The top-performing stores don't necessarily carry full inventory, indicating a need to optimize product mix rather than ensuring all products are stocked in every store.
 
 ### 4. Inventory Value and Turnover
-Current Stock Levels: The total Stock on Hand (SOH) is <u>**29,742**</u> units across all locations, valued at <u>**$300,210.**</u>
-Inventory Turnover Period (ITP): The ITP is <u>**13 days**</u>, meaning it would take just 13 days to sell through current inventory, signaling efficient inventory management.
-Stock Cover (SC): The SC is <u>**17 days**<u/>, suggesting some discrepancies in stock levels across locations.
 
 # Recommendations and Suggestions
 - Focus on Electronics: Despite a decline in sales, Electronics remains a high-margin category. Investigating (sales team) and addressing the causes of this decline could improve overall profitability.
