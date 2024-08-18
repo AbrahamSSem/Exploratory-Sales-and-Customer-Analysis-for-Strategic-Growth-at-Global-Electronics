@@ -11,30 +11,29 @@ The objective is to explore key sales and customer data to identify potential gr
 I have been provided with transactional and customer data for the Global Electronics Company, covering the period from January 2016 to December 2020. This dataset includes over 62,822 transaction records and contains detailed information about products, stores, and daily exchange rates.
 The objective is to prepare, analyze, and visualize this data to identify key insights. These insights will inform strategic investigations and guide decision-making. 
 The findings will focus on:
-
-1.Understanding the types of products sold and the geographic distribution of customers.
-2.Identifying seasonal patterns or trends in order volume and revenue.
-3.Assessing the average delivery time and tracking any changes over time.
-4.Comparing the average order value (AOV) between online and in-store sales.
+1. Understanding the types of products sold and the geographic distribution of customers.
+2. Identifying seasonal patterns or trends in order volume and revenue.
+3. Assessing the average delivery time and tracking any changes over time.
+4. Comparing the average order value (AOV) between online and in-store sales.
 
 ### Key metrics
-Revenue:Total sales accumulated across all years.
+*Revenue:* Total sales accumulated across all years.
 - Level of Detail: Analyzed by Product Category and broken down by time periods (Month, Quarter, and Year).
 - Purpose: To understand overall sales performance and identify which product categories contribute the most to revenue.
   
-Seasonal Sales Index:Measures how sales volume or revenue varies by season or time period.
+*Seasonal Sales Index:* Measures how sales volume or revenue varies by season or time period.
 - Level of Detail: Identified using time periods, focusing on monthly and quarterly data to detect recurring patterns.
 - Purpose: To uncover seasonal trends and understand how sales fluctuate throughout the year.
   
-Average Delivery Time: The average number of days taken to deliver orders to customers.
+*Average Delivery Time:* The average number of days taken to deliver orders to customers.
 - Level of Detail: Calculated at the level of individual transactions and aggregated by time periods (Month, Quarter, and Year).
 - Purpose: To assess delivery performance and identify any changes in delivery efficiency over time.
   
-Average Order Value (AOV):The average value of each order placed.
+*Average Order Value (AOV):* The average value of each order placed.
 - Level of Detail: Analyzed by Sales Channel (Online vs. In-Store) and product categories.
 - Purpose: To determine if there is a significant difference in order values between online and in-store sales, which can inform pricing and sales strategies.
 
-# Key 
+# Key Insights
 ### 1. Types of Products sold and Customer Loctaion:
 -The company offers a diverse range of 8 product categories across 11 brands.
 -Customer base is predominantly located in North America, comprising 55% of the total, with a substantial proportion residing in the USA. Gender distribution among the customers is nearly balanced, with an almost equal split between male and female individuals.
