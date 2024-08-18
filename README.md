@@ -35,27 +35,24 @@ The findings will focus on:
 
 # Key Insights
 ### 1. Types of Products sold and Customer Loctaion:
--The company offers a diverse range of 8 product categories across 11 brands.
--Customer base is predominantly located in North America, comprising 55% of the total, with a substantial proportion residing in the USA. Gender distribution among the customers is nearly balanced, with an almost equal split between male and female individuals.
+The company offers a diverse range of 8 product categories across 11 brands.
+Customer base is predominantly located in North America, comprising 55% of the total, with a substantial proportion residing in the USA. Gender distribution among the customers is nearly balanced, with an almost equal split between male and female individuals.
 
 ### 2. Seasonal Sales Trends
-Quarterly Revenue Trends: The report reveals clear seasonal patterns in revenue across the years. Q4 consistently shows strong revenue growth, peaking in December, likely due to holiday shopping and year-end promotions. In contrast, Q2 tends to experience a significant drop, particularly around April, suggesting a seasonal lull or lower consumer spending during this period. The recovery usually begins in Q3, though the strength of this recovery varies by year, with some years showing a more gradual increase while others remain relatively flat.
+Quarterly Revenue Trends: The report reveals clear seasonal patterns in revenue across the years. <u>*Q4 consistently shows strong revenue growth, peaking in December*</u>, likely due to holiday shopping and year-end promotions. In contrast, Q2 tends to experience a significant drop, particularly around April, suggesting a seasonal lull or lower consumer spending during this period. The recovery usually begins in Q3, though the strength of this recovery varies by year, with some years showing a more gradual increase while others remain relatively flat.
 
 Yearly Revenue Trends: The line chart shows clear seasonal spikes in revenue, particularly in December and January, with noticeable drops around April and July. This suggests strong end-of-year and start-of-year sales, possibly driven by holiday shopping and New Year promotions.
 
 Order Volume: The heatmap reveals a consistent increase in order volume during January and February across all years, peaking significantly in 2020. There is also a noticeable rise in volume during May and November, particularly in 2019, indicating potential seasonal campaigns or events during these months.
 
-### 3. Impact of Out-of-Stock Products on Sales
+### 3.
 
 
-**Low Impact on Revenue:** The missing products in these stores are not top earners **(bottom five)**, collectively accounting for less than **0.5%** of total revenue from **January 2022 to September 2023.**
-**Optimization Opportunity:** The top-performing stores don't necessarily carry full inventory, indicating a need to optimize product mix rather than ensuring all products are stocked in every store.
+### 4.
 
-### 4. Inventory Value and Turnover
-
-# Recommendations and Suggestions
-- Focus on Electronics: Despite a decline in sales, Electronics remains a high-margin category. Investigating (sales team) and addressing the causes of this decline could improve overall profitability.
-- Seasonal Marketing: Consider running campaigns (marketing team) during the June-September period to capitalize on summer and back-to-school events.
+# Targeted Investigations
+- Investigate Q2 Trends on a monthly level: Given the consistent dip in Q2, it would be worthwhile to analyze the factors contributing to this decline. Consider looking into external factors like weather given that we are working  or competitive actions during Q2.
+- Take Advantage of  Seasonal Patterns: The strong performance in Q4 across most years indicates that this period is crucial for revenue.finding out the how different product categories brands perform during this time would highly beneficial Capitalizing on this by planning targeted marketing campaigns, promotions, and product launches during Q4 could drive even higher sales.
 - Optimize Inventory Mix: Rather than stocking all products in every store, focus on optimizing the product mix based on local demand to enhance sales performance.
 
 
