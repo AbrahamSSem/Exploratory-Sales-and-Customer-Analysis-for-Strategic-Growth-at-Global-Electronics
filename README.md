@@ -34,7 +34,7 @@ The findings will focus on:
 - Purpose: To determine if there is a significant difference in order values between online and in-store sales, which can inform pricing and sales strategies.
 
 # Key Insights
-### 1. Types of Products sold and Customer Loctaion:
+### 1. Types of Products sold and Customer Loctaion
 The company offers a diverse range of 8 product categories across 11 brands.
 Customer base is predominantly located in North America, comprising 55% of the total, with a substantial proportion residing in the USA overall followed by UK. Gender distribution among the customers is nearly balanced, with an almost equal split between male and female individuals.
 
@@ -49,7 +49,7 @@ For 2021, watching revenue patterns to see whether they return to pre-pandemic t
 
 *Order Volume:* The heatmap reveals a consistent increase in order volume during January and February across all years, peaking significantly in 2020. There is also a noticeable rise in volume during May and November, particularly in 2019, indicating potential seasonal campaigns or events during these months.
 
-### 3.Delivery Time :
+### 3.Delivery Time 
 The average delivery time is 4.5 days, with a clear downward trend observed from 2016 to 2020, indicating a consistent improvement in delivery efficiency. While there are some fluctuations in monthly data within each year, the overall trend suggests that delivery processes have become faster and more streamlined. Additionally, the average delivery time remains steady when viewed at a quarterly level within each year, further reinforcing the gains in efficiency.Australia, in particular, had the best average delivery time of 3.8 days in 2020, though delivery times vary significantly between different locations.
 
 ### 4.Average Order Value Comparision
