@@ -43,6 +43,7 @@ Quarterly Revenue Trends: The report reveals clear seasonal patterns in revenue 
 
 Yearly Revenue Trends: The line chart shows a clear pattern in yearly revenue, with significant spikes in December and January, likely due to holiday shopping and New Year promotions, and noticeable drops around April and July.
 In 2020, however, the trend was different: after a dip in April, revenue continued to decline until November before recovering in December. This unusual pattern is attributed to the impact of COVID-19.
+
 For 2021, watching revenue patterns to whether they return to pre-pandemic trends or if new patterns emerge due to ongoing changes in consumer behavior and market conditions is highly recommended.
 
 Order Volume: The heatmap reveals a consistent increase in order volume during January and February across all years, peaking significantly in 2020. There is also a noticeable rise in volume during May and November, particularly in 2019, indicating potential seasonal campaigns or events during these months.
@@ -52,6 +53,7 @@ The average delivery time is 4.5 days, with a clear downward trend observed from
 
 ### 4.Average Order Value Comparision
 In-store purchases consistently have a higher average order value (AOV) than online transactions, except in 2016. The biggest difference was in 2017 of $132.61 across all countries. In-store sales also bring in more revenue and have more orders than online sales.
+
 Notably, certain locations show significant differences in AOV between in-store and online purchases, suggesting localized factors at play. For instance, Australia has a striking AOV difference of $162.54, compared to $101.80 in North America and $68.88 in Europe, indicating that regional customer behavior may be influencing these trends.
 
 # Take aways and Areas for Further Investigation.
