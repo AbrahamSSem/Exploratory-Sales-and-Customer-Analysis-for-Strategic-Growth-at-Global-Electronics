@@ -42,6 +42,7 @@ Customer base is predominantly located in North America, comprising 55% of the t
 Quarterly Revenue Trends: The report reveals clear seasonal patterns in revenue across the years. <u>*Q4 consistently shows strong revenue growth, peaking in December*<u/>, likely due to holiday shopping and year-end promotions. In contrast, Q2 tends to experience a significant drop, particularly around April, suggesting a seasonal lull or lower consumer spending during this period. The recovery usually begins in Q3, though the strength of this recovery varies by year, with some years showing a more gradual increase while others remain relatively flat.
 
 Yearly Revenue Trends: The line chart shows clear seasonal spikes in revenue, particularly in December and January, with noticeable drops around April and July. This suggests strong end-of-year and start-of-year sales, possibly driven by holiday shopping and New Year promotions.
+The year 2020 doesnt follow the general observed trend like other years,after the dip in April the remain on a downward trajectory till november and then a recovery to December.this is due to covid.
 
 Order Volume: The heatmap reveals a consistent increase in order volume during January and February across all years, peaking significantly in 2020. There is also a noticeable rise in volume during May and November, particularly in 2019, indicating potential seasonal campaigns or events during these months.
 
@@ -55,7 +56,7 @@ Notably, certain locations show significant differences in AOV between in-store 
 # Take aways and Areas for Further Investigation.
 - North America, especially the USA, is the company's primary market, indicating the need for targeted strategies to capitalize on this strong customer base.
   
-- Given the consistent dip in Q2, it would be worthwhile to analyze the factors contributing to this decline. Consider looking into external factors like weather conditions because upon looking at, it relieved that particularrly for North America, this is season transition from winter to spring and this is the time for outdoor events and other.  given that we are working  or competitive actions during Q2.
+- Given the consistent dip in Q2 across all years, it would be worthwhile to analyze the factors contributing to this decline. Consider looking into external factors like weather conditions, as North America, which is a key market, experiences the transition from winter to spring during this period—a time when outdoor activities and events are more common, possibly reducing the need for certain electronics products. Additionally, investigating competitive actions during Q2, such as promotions or new product launches by rivals, could provide insights into why sales drop during this quarter. Understanding these factors could help in developing strategies to mitigate the impact and boost sales during this period.
   
 - Take Advantage of  Seasonal Patterns,The strong performance in Q4 across most years indicates that this period is crucial for revenue.Finding out the how different product categories brands perform during this time would be highly beneficial Capitalizing on this by planning targeted marketing campaigns, promotions, and product launches during Q4 could drive even higher sales.
   
