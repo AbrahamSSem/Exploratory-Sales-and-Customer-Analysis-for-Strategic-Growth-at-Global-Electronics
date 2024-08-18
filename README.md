@@ -11,6 +11,7 @@ The objective is to explore key sales and customer data to identify potential gr
 I have been provided with transactional and customer data for the Global Electronics Company, covering the period from January 2016 to December 2020. This dataset includes over 62,822 transaction records and contains detailed information about products, stores, and daily exchange rates.
 The objective is to prepare, analyze, and visualize this data to identify key insights. These insights will inform strategic investigations and guide decision-making. 
 The findings will focus on:
+
 1.Understanding the types of products sold and the geographic distribution of customers.
 2.Identifying seasonal patterns or trends in order volume and revenue.
 3.Assessing the average delivery time and tracking any changes over time.
