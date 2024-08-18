@@ -42,6 +42,7 @@ Customer base is predominantly located in North America, comprising 55% of the t
 *Quarterly Revenue Trends:* The report reveals clear seasonal patterns in revenue across the years. <U>*Q4 consistently shows strong revenue growth, peaking in December*</U>, likely due to *holiday shopping and year-end promotions*. In contrast, Q2 tends to experience a significant drop, particularly around April, suggesting a seasonal lull or lower consumer spending during this period. The recovery usually begins in Q3, though the strength of this recovery varies by year, with some years showing a more gradual increase while others remain relatively flat.
 
 *Yearly Revenue Trends:* The line chart shows a clear pattern in yearly revenue, with significant spikes in December and January, likely due to holiday shopping and New Year promotions, and noticeable drops around April and July.
+
 In 2020, however, the trend was different: after a dip in April, revenue continued to decline until November before recovering in December. This unusual pattern is attributed to the impact of COVID-19.
 
 For 2021, watching revenue patterns to see whether they return to pre-pandemic trends or if new patterns emerge due to ongoing changes in consumer behavior and market conditions is highly recommended.
