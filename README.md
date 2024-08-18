@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0760886c-0cee-4324-a9e2-a1764ded4fe1)
+![Screenshot 2024-08-19 020826](https://github.com/user-attachments/assets/c327d9ad-7219-4732-b15b-a9dccfb2bdc1)
 
 # Global-Electronics-Exploratory-Analysis-Report
 
