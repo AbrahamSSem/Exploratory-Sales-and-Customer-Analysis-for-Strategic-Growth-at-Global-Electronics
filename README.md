@@ -2,21 +2,21 @@
 
 # Global-Electronics-Exploratory-Analysis-Report
 
-Exploratory analysis of the Global Electronics' sales data, offering insights into types of products sold, customer locations, seasonal revenue and delivery times trends. 
+Exploratory analysis of the Global Electronics Company's data, offering insights into types of products sold, customer locations, seasonal trends and delivery time changes. 
 
-# Project Objective and Overview
+## Project Objective and Overview
 The objective is to explore key sales and customer data to identify potential growth areas, uncover seasonal patterns, assess delivery performance, and evaluate sales channel effectiveness, setting the foundation for targeted strategic investigations.
 
 ## Overview
 I have been provided with transactional and customer data for the Global Electronics Company, covering the period from January 2016 to December 2020. This dataset includes over 62,822 transaction records and contains detailed information about products, stores, and daily exchange rates.
-The objective is to prepare, analyze, and visualize this data to identify key insights. These insights will inform strategic investigations and guide decision-making. The findings will focus on:
-
+The objective is to prepare, analyze, and visualize this data to identify key insights. These insights will inform strategic investigations and guide decision-making. 
+The findings will focus on:
 1.Understanding the types of products sold and the geographic distribution of customers.
 2.Identifying seasonal patterns or trends in order volume and revenue.
 3.Assessing the average delivery time and tracking any changes over time.
 4.Comparing the average order value (AOV) between online and in-store sales.
 
-Key metrics,
+### Key metrics
 Revenue:Total sales accumulated across all years.
 - Level of Detail: Analyzed by Product Category and broken down by time periods (Month, Quarter, and Year).
 - Purpose: To understand overall sales performance and identify which product categories contribute the most to revenue.
