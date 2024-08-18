@@ -41,8 +41,9 @@ Customer base is predominantly located in North America, comprising 55% of the t
 ### 2. Seasonal Sales Trends
 Quarterly Revenue Trends: The report reveals clear seasonal patterns in revenue across the years. <u>*Q4 consistently shows strong revenue growth, peaking in December*<u/>, likely due to holiday shopping and year-end promotions. In contrast, Q2 tends to experience a significant drop, particularly around April, suggesting a seasonal lull or lower consumer spending during this period. The recovery usually begins in Q3, though the strength of this recovery varies by year, with some years showing a more gradual increase while others remain relatively flat.
 
-Yearly Revenue Trends: The line chart shows clear seasonal spikes in revenue, particularly in December and January, with noticeable drops around April and July. This suggests strong end-of-year and start-of-year sales, possibly driven by holiday shopping and New Year promotions.
-The year 2020 doesnt follow the general observed trend like other years,after the dip in April the remain on a downward trajectory till november and then a recovery to December.this is due to covid.
+Yearly Revenue Trends: The line chart shows a clear pattern in yearly revenue, with significant spikes in December and January, likely due to holiday shopping and New Year promotions, and noticeable drops around April and July.
+In 2020, however, the trend was different: after a dip in April, revenue continued to decline until November before recovering in December. This unusual pattern is attributed to the impact of COVID-19.
+For 2021, watching revenue patterns to whether they return to pre-pandemic trends or if new patterns emerge due to ongoing changes in consumer behavior and market conditions is highly recommended.
 
 Order Volume: The heatmap reveals a consistent increase in order volume during January and February across all years, peaking significantly in 2020. There is also a noticeable rise in volume during May and November, particularly in 2019, indicating potential seasonal campaigns or events during these months.
 
