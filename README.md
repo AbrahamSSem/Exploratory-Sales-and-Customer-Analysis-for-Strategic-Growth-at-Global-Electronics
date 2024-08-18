@@ -36,24 +36,30 @@ The findings will focus on:
 # Key Insights
 ### 1. Types of Products sold and Customer Loctaion:
 The company offers a diverse range of 8 product categories across 11 brands.
-Customer base is predominantly located in North America, comprising 55% of the total, with a substantial proportion residing in the USA. Gender distribution among the customers is nearly balanced, with an almost equal split between male and female individuals.
+Customer base is predominantly located in North America, comprising 55% of the total, with a substantial proportion residing in the USA overall followed by UK. Gender distribution among the customers is nearly balanced, with an almost equal split between male and female individuals.
 
 ### 2. Seasonal Sales Trends
-Quarterly Revenue Trends: The report reveals clear seasonal patterns in revenue across the years. <u>*Q4 consistently shows strong revenue growth, peaking in December*</u>, likely due to holiday shopping and year-end promotions. In contrast, Q2 tends to experience a significant drop, particularly around April, suggesting a seasonal lull or lower consumer spending during this period. The recovery usually begins in Q3, though the strength of this recovery varies by year, with some years showing a more gradual increase while others remain relatively flat.
+Quarterly Revenue Trends: The report reveals clear seasonal patterns in revenue across the years. <u>*Q4 consistently shows strong revenue growth, peaking in December*<u/>, likely due to holiday shopping and year-end promotions. In contrast, Q2 tends to experience a significant drop, particularly around April, suggesting a seasonal lull or lower consumer spending during this period. The recovery usually begins in Q3, though the strength of this recovery varies by year, with some years showing a more gradual increase while others remain relatively flat.
 
 Yearly Revenue Trends: The line chart shows clear seasonal spikes in revenue, particularly in December and January, with noticeable drops around April and July. This suggests strong end-of-year and start-of-year sales, possibly driven by holiday shopping and New Year promotions.
 
 Order Volume: The heatmap reveals a consistent increase in order volume during January and February across all years, peaking significantly in 2020. There is also a noticeable rise in volume during May and November, particularly in 2019, indicating potential seasonal campaigns or events during these months.
 
-### 3.
+### 3.Delivery Time :
+The average delivery time is 4.5 days, with a clear downward trend observed from 2016 to 2020, indicating a consistent improvement in delivery efficiency. While there are some fluctuations in monthly data within each year, the overall trend suggests that delivery processes have become faster and more streamlined. Additionally, the average delivery time remains steady when viewed at a quarterly level within each year, further reinforcing the gains in efficiency.Australia, in particular, had the best average delivery time of 3.8 days in 2020, though delivery times vary significantly between different locations.
 
+### 4.Average Order Value Comparision
+In-store purchases consistently have a higher average order value (AOV) than online transactions, except in 2016. The biggest difference was in 2017 of $132.61 across all countries. In-store sales also bring in more revenue and have more orders than online sales.
+Notably, certain locations show significant differences in AOV between in-store and online purchases, suggesting localized factors at play. For instance, Australia has a striking AOV difference of $162.54, compared to $101.80 in North America and $68.88 in Europe, indicating that regional customer behavior may be influencing these trends.
 
-### 4.
+# Take aways and Suggested TargetInvestigations
+- North America, especially the USA, is the company's primary market, indicating the need for targeted strategies to capitalize on this strong customer base.
+- Given the consistent dip in Q2, it would be worthwhile to analyze the factors contributing to this decline. Consider looking into external factors like weather conditions because upon looking at, it relieved that particularrly for North America, this is season transition from winter to spring and this is the time for outdoor events and other.  given that we are working  or competitive actions during Q2.
+- Take Advantage of  Seasonal Patterns,The strong performance in Q4 across most years indicates that this period is crucial for revenue.Finding out the how different product categories brands perform during this time would be highly beneficial Capitalizing on this by planning targeted marketing campaigns, promotions, and product launches during Q4 could drive even higher sales.
+- The consistent improvement in delivery times over the years shows that efforts to make operations more efficient have worked well. However, further refining the supply chain could lead to even faster deliveries and better customer satisfaction.Reviewing each step of the supply chain could help spot slowdowns that we saw in certain months.This might include checking how quickly orders are processed, how efficiently warehouses operate, and how fast deliveries reach customers, and by so doing ways to improve even futher can achieved.
+Additionally analyzing location-specific factors and yearly trends could help identify areas where targeted improvements can be made, such as optimizing routes or adjusting resources based on regional performance.
+- In-store shopping is driving more value and volume compared to online, highlighting the importance of physical retail locations for the company.Analyzing the demographic profiles of in-store versus online customers, including age, income level, and purchasing behavior could reveal preferences that drive higher in-store spending. Additionally examining the types of products being purchased in-store versus online because certain categories may have higher price points contributing to the higher AOV.
 
-# Targeted Investigations
-- Investigate Q2 Trends on a monthly level: Given the consistent dip in Q2, it would be worthwhile to analyze the factors contributing to this decline. Consider looking into external factors like weather given that we are working  or competitive actions during Q2.
-- Take Advantage of  Seasonal Patterns: The strong performance in Q4 across most years indicates that this period is crucial for revenue.finding out the how different product categories brands perform during this time would highly beneficial Capitalizing on this by planning targeted marketing campaigns, promotions, and product launches during Q4 could drive even higher sales.
-- Optimize Inventory Mix: Rather than stocking all products in every store, focus on optimizing the product mix based on local demand to enhance sales performance.
 
 
 
