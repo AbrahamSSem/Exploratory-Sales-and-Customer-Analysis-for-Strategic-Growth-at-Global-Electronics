@@ -1,6 +1,6 @@
 ![Screenshot 2024-08-19 020826](https://github.com/user-attachments/assets/c327d9ad-7219-4732-b15b-a9dccfb2bdc1)
 
-# Global-Electronics-Exploratory-Analysis-Report
+# Exploratory Sales and Customer Analysis for Strategic Growth at Global Electronics
 
 Exploratory analysis of the Global Electronics Company's data, offering insights into types of products sold, customer locations, seasonal trends and delivery time changes. 
 
