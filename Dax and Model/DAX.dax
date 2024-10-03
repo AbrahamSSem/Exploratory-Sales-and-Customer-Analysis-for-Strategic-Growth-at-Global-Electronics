@@ -1,0 +1,60 @@
+1.Trasfered the unit price price from the product table to the sales table
+Unit Price = RELATED(Products[Unit Price USD])
+
+2.Given that we had Exchange rates that we different on different days, calculated sales column factoring in the Exchange rates(local curencies)
+sales (USD) = 
+VAR UnitsSold = Sales[Quantity]
+VAR UnitPrice = Sales[Unit Price]
+VAR ExchangeRate = 
+    RELATED('Exchange_Rates'[Exchange])
+RETURN
+    IF(
+        Sales[Currency Code] = "USD",
+        UnitsSold * UnitPrice,
+        UnitsSold * UnitPrice * ExchangeRate
+    )
+
+3.Total revenue in USD
+total revenue = sumx(Sales,Sales[Quantity]*Sales[Unit Price])
+
+4.Total sales accounting for the Exchange Rates.
+total sales = SUM(Sales[sales (USD)])
+
+5.Year to date Revenue for any selected year on the slicer.
+YTD = VAR selectyear = MAX('calendar'[Year])
+    VAR salesselectyear = [total revenue]
+return 
+    salesselectyear
+
+6.Previous Year to date Revenue for any selected year on the slicer.
+PYTD = VAR selectedyear = MAX('calendar'[Year])
+        VAR salesPY = CALCULATE([total revenue],SAMEPERIODLASTYEAR('calendar'[Date]))
+    return
+        salesPY
+
+7.Difference btn YTD and PYTD for any selected year on the slicer.
+YTD Vs PYTD = 
+VAR SelectedYear = MAX('calendar'[Year])  
+VAR TotalSalesSelectedYear = [total revenue]
+VAR TotalSalesPY = 
+    CALCULATE(
+        [total revenue],
+        SAMEPERIODLASTYEAR('calendar'[Date])  
+    )
+RETURN
+    TotalSalesSelectedYear - TotalSalesPY
+
+8.Average Delivery Time
+AOV = DIVIDE([total revenue],[Total Orders])
+AOV online = CALCULATE(DIVIDE([total revenue],[Total Orders]),Stores[StoreKey] = 0)--filter on the store key 0 representing online
+AOV stores = CALCULATE(DIVIDE([total revenue],[Total Orders]),Stores[StoreKey] <> 0)--filter on the store keys that are not 0
+AOV Difference = [AOV online]-[AOV stores]
+
+9.Delivery Times
+DeliveryTime (DAYS) = DATEDIFF(Sales[Order Date],Sales[Delivery Date],DAY)--calculated column calcu;ating difference in days 
+Avg Delivery Time = AVERAGE(Sales[DeliveryTime (DAYS)])
+average DT Overtime = CALCULATE(AVERAGE(Sales[DeliveryTime (DAYS)]),ALLEXCEPT(Sales,'calendar'[Year],'calendar'[Month ]))--filetering only on time periods to see the trend.
+
+10.Dynamic title
+title = "Global Electronics Exploratory Analysis Report" &" " & SELECTEDVALUE('calendar'[Year],"All Years")
+		
