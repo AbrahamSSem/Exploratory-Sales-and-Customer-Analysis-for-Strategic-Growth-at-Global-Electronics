@@ -1,0 +1,38 @@
+Data Cleaning and Transformation Summary
+
+This was all done in Power Query
+
+Sales Table
+Promoted Headers: Set the first row as the header.
+Changed Data Types:
+Converted Order Date and Delivery Date to date type.
+Quantity, ProductKey, StoreKey, CustomerKey to integers.
+Removed Duplicates: Eliminated duplicate records.
+
+Exchange Rates Table
+Set the first row as the header.
+Changed Data Types:
+Converted Date to date type, 
+Currency to text, 
+Exchange to number.
+Removed Duplicates: Eliminated duplicate records.
+
+Products Table
+Set the first row as the header.
+Changed Data Types: Converted ProductKey to integer, 
+Unit Cost USD, and Unit Price USD to currency type.
+Removed Unnecessary Columns: Dropped Color, SubcategoryKey, and CategoryKey.
+
+Stores Table
+Set the first row as the header.
+Changed Data Types: Converted StoreKey to integer. 
+Country, State, Square Meters to text.
+Removed Duplicates: Eliminated duplicate records.
+
+Customers Table
+Set the first row as the header.
+Changed Data Types: 
+Converted CustomerKey to integer.
+Gender, Country, State, and Continent to text.
+Removed Unnecessary Columns: Dropped Name, City, Birthday, and Zip Code.
+Removed Duplicates: Eliminated duplicate records.
